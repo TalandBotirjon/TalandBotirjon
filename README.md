@@ -7,7 +7,7 @@
 - 💬 Ask me about **Django and Django-Rest-Framework in Python**
 
 - 📫 How to reach me **ergashovbotirjon4@gmail.com**
-- Phone Number me  <a href="tel:+998995907850" target="_blank" rel="noreferrer">+998995907850 </a>
+- Phone Number me  <a href="tel:+998-99-590-78-50" target="_blank" rel="noreferrer">+998995907850 </a>
 -  Leetcode profile me **https://leetcode.com/ergashovbotirjon4/**
 
 <h2>
