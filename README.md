@@ -7,6 +7,7 @@
 - 💬 Ask me about **Django and Django-Rest-Framework in Python**
 
 - 📫 How to reach me **ergashovbotirjon4@gmail.com**
+-  Leetcode profile me **https://leetcode.com/ergashovbotirjon4/**
 
 <h2>
   
