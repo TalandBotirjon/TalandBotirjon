@@ -9,8 +9,8 @@
 - 📫 How to reach me **ergashovbotirjon4@gmail.com**
 - Phone Number me  <a href="tel:+998-99-590-78-50" target="_blank" rel="noreferrer">+998995907850 </a>
 -  Leetcode profile me **https://leetcode.com/ergashovbotirjon4/**
--  <b>My profile: http://talantblog.herokuapp.com/ <b/>
--  <b>Telegram profile: (https://t.me/Talant_Dev) <b/>
+-  <b>My profile: <a href="https://talantblog.herokuapp.com/" target='_blank'>Talant Blog</a><b/>
+-  <b>Telegram profile: <a href="https://t.me/Talant_Dev" target='_blank'>Talant</a> <b/>
 
 <h2>
   
