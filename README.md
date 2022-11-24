@@ -10,6 +10,7 @@
 - Phone Number me  <a href="tel:+998-99-590-78-50" target="_blank" rel="noreferrer">+998995907850 </a>
 -  Leetcode profile me **https://leetcode.com/ergashovbotirjon4/**
 -  <b>My profile: http://talantblog.herokuapp.com/ <b/>
+-  <b>Telegram profile: (https://t.me/Talant_Dev) <b/>
 
 <h2>
   
