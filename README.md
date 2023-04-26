@@ -27,4 +27,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 </p>
-![photo_2023-04-26_22-26-02](https://user-images.githubusercontent.com/85695336/234654983-14bb84b9-746e-4edc-ae69-2708f35d7c9d.jpg)
+  
+  <img src="https://user-images.githubusercontent.com/85695336/234654983-14bb84b9-746e-4edc-ae69-2708f35d7c9d.jpg" alt="bootstrap" width="100" height="100"/>
+
