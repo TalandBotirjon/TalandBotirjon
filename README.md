@@ -28,5 +28,5 @@
 
 </p>
   
-  <img src="https://user-images.githubusercontent.com/85695336/234654983-14bb84b9-746e-4edc-ae69-2708f35d7c9d.jpg" alt="bootstrap" width="100" height="100"/>
+  <img src="https://user-images.githubusercontent.com/85695336/234654983-14bb84b9-746e-4edc-ae69-2708f35d7c9d.jpg"/>
 
